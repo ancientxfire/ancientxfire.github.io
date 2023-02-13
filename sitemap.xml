@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>/drehbuch.html</loc>
+        <loc>https://ancientxfire.github.io/drehbuch.html</loc>
     </url>
     <url>
-        <loc>/</loc>
+        <loc>https://ancientxfire.github.io/</loc>
     </url>
     <url>
-        <loc>/index-1.html</loc>
+        <loc>https://ancientxfire.github.io/index-1.html</loc>
     </url>
     <url>
-        <loc>/player.html</loc>
+        <loc>https://ancientxfire.github.io/player.html</loc>
     </url>
 </urlset>
